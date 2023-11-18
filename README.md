@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avaneeshdayadav" alt="avaneeshdayadav" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
+
+
 - 🔭 I’m currently working at **Crest Data Systems** as a **Software Engineer.**
 
 - 💬 Ask me about **React, Express, Node, DSA and algorithms.**
